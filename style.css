@@ -1,0 +1,13 @@
+@import "_settings.css";
+@import "_grid.css";
+
+.item {
+	background-color: palegoldenrod;
+	text-align: center;
+	padding: 10px;
+	font-size: 12px;
+}
+
+.container {
+	margin-bottom: 20px;
+}
